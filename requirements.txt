@@ -1,0 +1,5 @@
+tensorflow
+numpy
+gym
+colorama
+# Add any other dependencies you need
